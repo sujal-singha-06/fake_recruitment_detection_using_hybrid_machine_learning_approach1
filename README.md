@@ -1,0 +1,2 @@
+# fake_recruitment_detection_using_hybrid_machine_learning_approach1
+Fake Job Recruitment Detection Using Hybrid ML Detects fraudulent job postings using TF-IDF text features + engineered indicators (suspicious keywords, missing fields). Applies SMOTE for class imbalance, cost-sensitive Random Forest, and threshold optimization (0.3) for high fraud recall. Achieves 97.37% accuracy and 87.29% recall on fake jobs.
